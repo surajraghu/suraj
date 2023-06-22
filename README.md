@@ -1,2 +1,2 @@
 # suraj
-this is for demo
+ this is only for demo project
